@@ -1,0 +1,594 @@
+{
+  "primitives": [
+    {
+      "type": "primitive",
+      "primitive_type": "box",
+      "position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "size_or_radius": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "color": [
+        0.800000011920929,
+        0.4000000059604645,
+        0.4000000059604645
+      ],
+      "ui_name": "Box",
+      "kwargs": {},
+      "op_id": "d7"
+    },
+    {
+      "type": "primitive",
+      "primitive_type": "cone",
+      "position": [
+        0.07414209842681885,
+        1.5078637599945068,
+        0.17369212210178375
+      ],
+      "size_or_radius": [
+        0.0
+      ],
+      "rotation": [
+        1.2217304763960306,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "color": [
+        0.800000011920929,
+        0.7341772317886353,
+        0.4000000059604645
+      ],
+      "ui_name": "Cone",
+      "kwargs": {
+        "c_sin": 0.30000001192092896,
+        "c_cos": 0.8659999966621399,
+        "height": 1.0
+      },
+      "op_id": "d8"
+    },
+    {
+      "type": "primitive",
+      "primitive_type": "pointer",
+      "position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "size_or_radius": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "color": [
+        0.800000011920929,
+        0.6000000238418579,
+        0.4000000059604645
+      ],
+      "ui_name": "Pointer",
+      "kwargs": {
+        "func": "pointer_symmetry_x"
+      },
+      "op_id": "d10"
+    },
+    {
+      "type": "primitive",
+      "primitive_type": "sphere",
+      "position": [
+        0.47128233313560486,
+        0.4468742907047272,
+        0.4677112400531769
+      ],
+      "size_or_radius": [
+        0.30000001192092896
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "color": [
+        0.9873417615890503,
+        0.9517461657524109,
+        0.049991969019174576
+      ],
+      "ui_name": "Sphere",
+      "kwargs": {},
+      "op_id": "d11"
+    },
+    {
+      "type": "primitive",
+      "primitive_type": "sphere",
+      "position": [
+        0.5698899626731873,
+        0.0,
+        0.6629627346992493
+      ],
+      "size_or_radius": [
+        0.5
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "color": [
+        0.19831222295761108,
+        0.1715358942747116,
+        0.1715358942747116
+      ],
+      "ui_name": "Sphere",
+      "kwargs": {},
+      "op_id": "d13"
+    },
+    {
+      "type": "primitive",
+      "primitive_type": "sphere",
+      "position": [
+        0.41264766454696655,
+        0.48208341002464294,
+        0.4508940875530243
+      ],
+      "size_or_radius": [
+        0.15000000596046448
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "color": [
+        0.9704641103744507,
+        0.9704592227935791,
+        0.9704543948173523
+      ],
+      "ui_name": "Sphere",
+      "kwargs": {},
+      "op_id": "d15"
+    },
+    {
+      "type": "primitive",
+      "primitive_type": "box",
+      "position": [
+        0.0,
+        -1.2742284536361694,
+        0.0
+      ],
+      "size_or_radius": [
+        2.0,
+        1.0,
+        2.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "color": [
+        0.800000011920929,
+        0.6000000238418579,
+        0.4000000059604645
+      ],
+      "ui_name": "Box",
+      "kwargs": {},
+      "op_id": "d17"
+    },
+    {
+      "type": "primitive",
+      "primitive_type": "cone",
+      "position": [
+        1.2448604106903076,
+        -0.6651817560195923,
+        0.48453161120414734
+      ],
+      "size_or_radius": [
+        0.0
+      ],
+      "rotation": [
+        -3.141592653589793,
+        -0.5235987755982988,
+        -1.0471975511965976
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "color": [
+        0.48101264238357544,
+        0.23815558850765228,
+        0.20295891165733337
+      ],
+      "ui_name": "Cone",
+      "kwargs": {
+        "c_sin": 0.20000000298023224,
+        "c_cos": 0.8659999966621399,
+        "height": 1.0
+      },
+      "op_id": "d20"
+    },
+    {
+      "type": "primitive",
+      "primitive_type": "vertical_capsule",
+      "position": [
+        0.9504620432853699,
+        -0.4923139214515686,
+        -0.4633750915527344
+      ],
+      "size_or_radius": [
+        0.5,
+        0.10000000149011612
+      ],
+      "rotation": [
+        1.0471975511965976,
+        -1.0471975511965976,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "color": [
+        0.5696202516555786,
+        0.2523634135723114,
+        0.2523634135723114
+      ],
+      "ui_name": "Vertical Capsule",
+      "kwargs": {},
+      "op_id": "d22"
+    },
+    {
+      "type": "primitive",
+      "primitive_type": "cone",
+      "position": [
+        0.9462360143661499,
+        -1.0773524045944214,
+        -0.24796883761882782
+      ],
+      "size_or_radius": [
+        0.0
+      ],
+      "rotation": [
+        2.792526803190927,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "color": [
+        0.3164557218551636,
+        0.20896759629249573,
+        0.10147947818040848
+      ],
+      "ui_name": "Cone",
+      "kwargs": {
+        "c_sin": 0.20000000298023224,
+        "c_cos": 0.8659999966621399,
+        "height": 0.6000000238418579
+      },
+      "op_id": "d24"
+    },
+    {
+      "type": "primitive",
+      "primitive_type": "sphere",
+      "position": [
+        0.0,
+        0.517041802406311,
+        -0.9033084511756897
+      ],
+      "size_or_radius": [
+        0.20000000298023224
+      ],
+      "rotation": [
+        0.8726646259971648,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        2.0,
+        1.0,
+        2.0
+      ],
+      "color": [
+        0.800000011920929,
+        0.6000000238418579,
+        0.4000000059604645
+      ],
+      "ui_name": "Sphere",
+      "kwargs": {},
+      "op_id": "d27"
+    },
+    {
+      "type": "primitive",
+      "primitive_type": "vertical_capsule",
+      "position": [
+        0.4022486209869385,
+        -0.4157923460006714,
+        -0.8428434133529663
+      ],
+      "size_or_radius": [
+        0.4000000059604645,
+        0.10000000149011612
+      ],
+      "rotation": [
+        1.0471975511965976,
+        -0.5235987755982988,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "color": [
+        0.800000011920929,
+        0.4607594907283783,
+        0.4000000059604645
+      ],
+      "ui_name": "Vertical Capsule",
+      "kwargs": {},
+      "op_id": "d28"
+    },
+    {
+      "type": "primitive",
+      "primitive_type": "cone",
+      "position": [
+        0.40940436720848083,
+        -1.0399869680404663,
+        -0.50948166847229
+      ],
+      "size_or_radius": [
+        0.0
+      ],
+      "rotation": [
+        2.6179938779914944,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "color": [
+        0.30379748344421387,
+        0.1730492115020752,
+        0.042300913482904434
+      ],
+      "ui_name": "Cone",
+      "kwargs": {
+        "c_sin": 0.20000000298023224,
+        "c_cos": 0.8659999966621399,
+        "height": 0.6000000238418579
+      },
+      "op_id": "d30"
+    },
+    {
+      "type": "primitive",
+      "primitive_type": "round_box",
+      "position": [
+        1.0167713165283203,
+        -0.8585501909255981,
+        0.35873228311538696
+      ],
+      "size_or_radius": [
+        0.20000000298023224,
+        0.30000001192092896,
+        0.20000000298023224
+      ],
+      "rotation": [
+        0.5235987755982988,
+        0.6981317007977318,
+        -0.3490658503988659
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "color": [
+        0.9873417615890503,
+        0.8442212343215942,
+        0.4957538843154907
+      ],
+      "ui_name": "Round Box",
+      "kwargs": {
+        "radius": 0.10000000149011612
+      },
+      "op_id": "d33"
+    }
+  ],
+  "operations": [
+    {
+      "type": "operation",
+      "operation_type": "sunion",
+      "args": [
+        "d7",
+        "d8",
+        0.21000002324581146
+      ],
+      "smooth_k": 0.21000002324581146,
+      "ui_name": "Smooth Union",
+      "op_id": "d9"
+    },
+    {
+      "type": "operation",
+      "operation_type": "union",
+      "args": [
+        "d11",
+        "d9"
+      ],
+      "smooth_k": null,
+      "ui_name": "Union",
+      "op_id": "d12"
+    },
+    {
+      "type": "operation",
+      "operation_type": "ssub",
+      "args": [
+        "d13",
+        "d12",
+        0.05
+      ],
+      "smooth_k": 0.05000000074505806,
+      "ui_name": "Smooth Subtraction",
+      "op_id": "d14"
+    },
+    {
+      "type": "operation",
+      "operation_type": "union",
+      "args": [
+        "d15",
+        "d14"
+      ],
+      "smooth_k": null,
+      "ui_name": "Union",
+      "op_id": "d16"
+    },
+    {
+      "type": "operation",
+      "operation_type": "ssub",
+      "args": [
+        "d17",
+        "d16",
+        0.07999999821186066
+      ],
+      "smooth_k": 0.07999999821186066,
+      "ui_name": "Smooth Subtraction",
+      "op_id": "d19"
+    },
+    {
+      "type": "operation",
+      "operation_type": "union",
+      "args": [
+        "d20",
+        "d19"
+      ],
+      "smooth_k": null,
+      "ui_name": "Union",
+      "op_id": "d21"
+    },
+    {
+      "type": "operation",
+      "operation_type": "sunion",
+      "args": [
+        "d22",
+        "d21",
+        0.05
+      ],
+      "smooth_k": 0.05000000074505806,
+      "ui_name": "Smooth Union",
+      "op_id": "d23"
+    },
+    {
+      "type": "operation",
+      "operation_type": "union",
+      "args": [
+        "d24",
+        "d23"
+      ],
+      "smooth_k": null,
+      "ui_name": "Union",
+      "op_id": "d25"
+    },
+    {
+      "type": "operation",
+      "operation_type": "sunion",
+      "args": [
+        "d27",
+        "d25",
+        0.03999999910593033
+      ],
+      "smooth_k": 0.03999999910593033,
+      "ui_name": "Smooth Union",
+      "op_id": "d26"
+    },
+    {
+      "type": "operation",
+      "operation_type": "sunion",
+      "args": [
+        "d28",
+        "d26",
+        0.029999999329447746
+      ],
+      "smooth_k": 0.029999999329447746,
+      "ui_name": "Smooth Union",
+      "op_id": "d29"
+    },
+    {
+      "type": "operation",
+      "operation_type": "union",
+      "args": [
+        "d30",
+        "d29"
+      ],
+      "smooth_k": null,
+      "ui_name": "Union",
+      "op_id": "d31"
+    },
+    {
+      "type": "operation",
+      "operation_type": "union",
+      "args": [
+        "d33",
+        "d31"
+      ],
+      "smooth_k": null,
+      "ui_name": "Union",
+      "op_id": "d32"
+    }
+  ]
+}
